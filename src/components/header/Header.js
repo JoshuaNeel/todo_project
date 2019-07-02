@@ -5,6 +5,9 @@ export default class Header extends Component{
         return(
             <header>
             <h1>Todo App</h1>
+            <nav>
+                <a>Link 1</a>
+            </nav>
 
             </header>
         );
